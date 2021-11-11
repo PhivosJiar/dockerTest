@@ -41,9 +41,9 @@ RUN npm install -g @angular/cli@13.0.1
 
 Set VSCode extensions
 ``` json
-{
+  {
 	"extensions": [
 		"extensionsCode"
 	],
-}
+  }
 ```
