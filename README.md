@@ -45,5 +45,5 @@ Set VSCode extensions
 	"extensions": [
 		"extensionsCode"
 	],
-  }
+}
 ```
